@@ -1,0 +1,10 @@
+.App{
+  background-color: #212529;
+  color: #fff;
+  font-family: "Propping" sans-serif;
+}
+.tete{
+  display: flex;
+  justify-content: space-between;
+  background-color: #343a40;
+}

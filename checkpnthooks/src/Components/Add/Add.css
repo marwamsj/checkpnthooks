@@ -1,0 +1,13 @@
+.formul{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    color: #17a2b8;
+}
+.Click{
+    margin-left: 10%;
+    width: 100px;
+}
+.adding{
+    margin: 0.5% 5% 0 0;
+}

@@ -1,0 +1,11 @@
+.text{
+    margin-top: 2%;
+    margin-left: 30%;
+    
+    
+}
+.form-inline .form-control {
+    width: 400px !important;}
+.chercher{
+    display: flex;
+}
